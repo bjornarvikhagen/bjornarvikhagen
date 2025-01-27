@@ -1,4 +1,8 @@
-## Hi there 👋
+   1. write down the problem
+   2. think very hard
+   3. write down the solution
+
+currently: wrangling apis, maritime technology, and teaching llms to read docs
 
 <!--
 **bjornarvikhagen/bjornarvikhagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
